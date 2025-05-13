@@ -1461,7 +1461,7 @@ app.get('/qr', async (req, res) => {
 
 // Menjalankan server Express di port 3000
 app.listen(3000, () => {
-  console.log('🔗 Visit https://chatbot-creative-production-d44b.up.railway.app/qr to scan the QR code');
+  console.log('🔗 Visit bot-railwayver-production.up.railway.app/qr to scan the QR code');
 });
 
 
